@@ -1,5 +1,7 @@
 Manual for operating the PET Application
 
+Here is the link to the Web Application: https://yellow-river-028915c10.4.azurestaticapps.net/
+
 1. You should receive an invitation email from Dr. Wei - it should look something like this:
 <img width="846" alt="Screenshot 2024-02-14 at 3 58 39 PM" src="https://github.com/tydonnelly11/pet-issues-repo/assets/71485257/d4d67cb2-a13a-478b-a56d-13a07b736146">
 
